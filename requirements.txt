@@ -1,0 +1,14 @@
+numpy 
+pandas
+matplotlib
+scikit-learn
+gensim
+tensorflow
+janome
+networkx
+requests
+lxml
+beautifulsoup4
+urllib3
+sentencepiece
+japanize-matplotlib

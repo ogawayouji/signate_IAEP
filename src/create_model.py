@@ -18,3 +18,11 @@ data = pd.read_csv(data_file)
 # from sklearn.metrics import mean_squared_error as MSE
 # MSE = RMSE * RMSE
 # MSE(autual, pred)
+
+# from sklearn.linear_model import LinearRegression
+# model = LR()
+# model.fit(x, y)
+# model.predict(X)
+# maximum
+# minimum
+# 対角線 min_value, max_value  min_value, max_value
